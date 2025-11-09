@@ -1,0 +1,136 @@
+{
+    "127.0.0.1": {
+        "estado": "pidiendo_nombre",
+        "nombre": "Pedro Perez",
+        "direccion": "cabildo 5000",
+        "telefono": "1123456789",
+        "operacion": "venta",
+        "tipo_propiedad": "departamento",
+        "ambientes": 3,
+        "barrio": "Villa Del Parque",
+        "garantia": "seguro de causion",
+        "tipo_venta": "comprar",
+        "conversacion": [
+            {
+                "usuario": "hola"
+            },
+            {
+                "bot": "¡Hola! 👋 Soy el asistente inmobiliario. ¿Podrías decirme tu *nombre y apellido*?"
+            },
+            {
+                "usuario": "danny ramirez"
+            },
+            {
+                "bot": "Encantado, Danny Ramirez 😄. ¿Podrías darme tu *dirección*?"
+            },
+            {
+                "usuario": "adolfo carranza 2551"
+            },
+            {
+                "bot": "Perfecto 👍. ¿Podrías dejarme tu *teléfono de contacto*?"
+            },
+            {
+                "usuario": "1134045324"
+            },
+            {
+                "bot": "Gracias. ¿Por qué operación te comunicás? ¿*Venta* o *alquiler*?"
+            },
+            {
+                "usuario": "alquiler"
+            },
+            {
+                "bot": "Entendido, Danny Ramirez. ¿Buscás una *casa* o un *departamento*?"
+            },
+            {
+                "usuario": "departamento"
+            },
+            {
+                "bot": "¿De cuántos ambientes la estás buscando?"
+            },
+            {
+                "usuario": "2"
+            },
+            {
+                "bot": "¿En qué barrio te gustaría buscar? Tenemos *Belgrano, Palermo, Villa del Parque* y *Villa Urquiza*."
+            },
+            {
+                "usuario": "palermo"
+            },
+            {
+                "bot": "¿Tenés *seguro de caución* o *garantía propietaria*?"
+            },
+            {
+                "usuario": "seguro de causion"
+            },
+            {
+                "bot": "Encontré estas opciones:\n- Departamento en Palermo (2 amb.) — $300000\n\n¿Querés que te comunique con un asesor? 😊"
+            },
+            {
+                "usuario": "si"
+            },
+            {
+                "bot": "Gracias por comunicarte con nosotros. ¿Querés iniciar otra consulta? 😊"
+            },
+            {
+                "usuario": "hola"
+            },
+            {
+                "bot": "¡Hola! 👋 Soy el asistente inmobiliario. ¿Podrías decirme tu *nombre y apellido*?"
+            },
+            {
+                "usuario": "pedro perez"
+            },
+            {
+                "bot": "Encantado, Pedro Perez 😄. ¿Podrías darme tu *dirección*?"
+            },
+            {
+                "usuario": "cabildo 5000"
+            },
+            {
+                "bot": "Perfecto 👍. ¿Podrías dejarme tu *teléfono de contacto*?"
+            },
+            {
+                "usuario": "1123456789"
+            },
+            {
+                "bot": "Gracias. ¿Por qué operación te comunicás? ¿*Venta* o *alquiler*?"
+            },
+            {
+                "usuario": "venta"
+            },
+            {
+                "bot": "Perfecto. ¿Querés *comprar* o *vender* una propiedad?"
+            },
+            {
+                "usuario": "comprar"
+            },
+            {
+                "bot": "Perfecto. ¿De cuántos ambientes te interesa?"
+            },
+            {
+                "usuario": "3"
+            },
+            {
+                "bot": "¿En qué barrio buscás? Tenemos *Belgrano, Palermo* y *Villa del Parque*."
+            },
+            {
+                "usuario": "villa del parque"
+            },
+            {
+                "bot": "No tenemos propiedades con esas características exactas, pero puedo buscar algo similar.\n¿Querés que te comunique con un vendedor?"
+            },
+            {
+                "usuario": "si"
+            },
+            {
+                "bot": "Gracias por comunicarte con nosotros. ¿Querés iniciar otra consulta? 😊"
+            },
+            {
+                "usuario": "hola"
+            },
+            {
+                "bot": "¡Hola! 👋 Soy el asistente inmobiliario. ¿Podrías decirme tu *nombre y apellido*?"
+            }
+        ]
+    }
+}

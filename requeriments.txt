@@ -1,0 +1,16 @@
+python 3.14
+flask-3.1.2
+blinker-1.9.0 
+click-8.3.0 
+colorama-0.4.6 
+itsdangerous-2.2.0 
+jinja2-3.1.6 
+markupsafe-3.0.3 
+werkzeug-3.1.3
+
+
+instalar usado: pip install -r requirements.txt
+
+para correr la aplicacion despues de instalar todo, abre la terminal y coloca:  python app.py y dale entrer
+
+te va salir algo como esto:  http://127.0.0.1:5000  copia y pegalo en tu navegador y dal enter y se cargara pa pagina 
